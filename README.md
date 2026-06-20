@@ -11,6 +11,9 @@ Computer Science student passionate about Full-Stack Development and Backend Eng
 * MongoDB
 * MySQL
 * Redis
+* HTML
+* CSS
+* Tailwind css
 * Git & GitHub
 * Docker
 
