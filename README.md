@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Robera 👋
 
-<!--
-**robera0/robera0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about Full-Stack Development and Backend Engineering.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React
+* JavaScript
+* Node.js
+* Express.js
+* MongoDB
+* MySQL
+* Redis
+* Git & GitHub
+* Docker
+
+## 💼 Featured Projects
+
+### 🎟️ Event Ticket Booking System
+
+A full-stack ticket booking platform with authentication, event management, comments, wishlists, Redis caching, and role-based access control.
+
+### 🎓 Student Management System
+
+Built using MongoDB with CRUD operations, student records management, and reporting features.
+
+### 🔐 Authentication System
+
+JWT-based authentication system with secure routes, role management, and user authorization.
+
+## 📈 Currently Learning
+
+* System Design
+* Backend Architecture
+* Performance Optimization
+* Cloud Deployment
+
+## 📫 Contact
+
+* Email: roberaararsa0@gmail.com
+* LinkedIn: https://linkedin.com/in/robera-ararsa-974727357
+
+"Always learning, always building."
