@@ -1,8 +1,8 @@
-# Hi, I'm Robera 👋
+# Hi, I'm Robera 
 
 Computer Science student passionate about Full-Stack Development and Backend Engineering.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 * React
 * JavaScript
